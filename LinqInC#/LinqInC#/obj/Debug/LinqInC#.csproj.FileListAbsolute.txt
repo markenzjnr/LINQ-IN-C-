@@ -1,0 +1,7 @@
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\obj\Debug\LinqInC#.csproj.AssemblyReference.cache
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\obj\Debug\LinqInC#.csproj.CoreCompileInputs.cache
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\bin\Debug\LinqInC#.exe.config
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\bin\Debug\LinqInC#.exe
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\bin\Debug\LinqInC#.pdb
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\obj\Debug\LinqInC#.exe
+C:\Users\42-DAWG\Desktop\C#\LinqInC#\LinqInC#\obj\Debug\LinqInC#.pdb
